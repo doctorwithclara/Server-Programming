@@ -1,7 +1,7 @@
 import telegram
 import time
 
-my_token = '348728717:AAFo2orhFFIptTaQr2TA-zzycO82Tj46dvs'
+my_token = '34872****:****2orhFFIptTaQ****-****O82Tj4****'
 
 bot = telegram.Bot(token = my_token)
 
